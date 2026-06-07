@@ -1,0 +1,17 @@
+{
+  "name": "ssvt-coaching-website",
+  "version": "1.0.0",
+  "description": "Local Node.js website for SSVT Coaching, Jaiptana.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "keywords": [
+    "ssvt",
+    "coaching",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT"
+}
